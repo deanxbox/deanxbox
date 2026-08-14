@@ -68,6 +68,7 @@ Storage:
 
 OS:
   Microsoft Windows 11 Pro
+  Arch Linux
 ```
 
 > yes, there are two GPUs. no, I will not be taking questions.
